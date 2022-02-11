@@ -1,0 +1,1 @@
+A server that makes calls to the Rescuetime api. Acts as proxy to make sure that the client only gets the data I want to be sent.
