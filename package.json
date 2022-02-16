@@ -1,0 +1,29 @@
+{
+  "name": "timetracker-server",
+  "version": "1.0.0",
+  "description": "A server that makes calls to the Rescuetime api.",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErwinPrograms/timetracker-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErwinPrograms/timetracker-server/issues"
+  },
+  "homepage": "https://github.com/ErwinPrograms/timetracker-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2"
+  }
+}
